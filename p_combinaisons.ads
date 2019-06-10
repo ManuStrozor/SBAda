@@ -1,6 +1,6 @@
 with sequential_IO;
 with text_io; use text_io;
-
+with P_Esiut; use P_Esiut;
 
 package p_combinaisons is
 
