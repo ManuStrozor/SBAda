@@ -197,7 +197,7 @@ package body P_Combinaisons is
    
    procedure CreeFicsolcont(fsol, fcont : in out text_io.file_type) is
    begin
-      Ecrire_Ligne("Procedure à coder");
+      Put_Line("Procedure à coder");
    end;
    
 end;
